@@ -1,5 +1,5 @@
 # jerry-fish-hub
-# 🐟 Jerry Fish Hub
+# 🐟 Jerry Fish Hub swe
 
 Ett kraftfullt auto-fishing script för Roblox med modernt gränssnitt och avancerade funktioner.
 
