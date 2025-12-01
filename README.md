@@ -1,5 +1,4 @@
-# jerry-fish-hub
-# 🐟 Jerry Fish Hub swe
+# 🐟 Jerry Fish Hub
 
 Ett kraftfullt auto-fishing script för Roblox med modernt gränssnitt och avancerade funktioner.
 
@@ -17,7 +16,7 @@ Ett kraftfullt auto-fishing script för Roblox med modernt gränssnitt och avanc
 
 ### Metod 1: Direct Load
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DittAnvändarnamn/jerry-fish-hub/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jerryberry7/jerry-fish-hub/refs/heads/main/script.lua"))()
 ```
 
 ### Metod 2: Executors
